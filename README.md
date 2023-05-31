@@ -7,7 +7,7 @@ This repo is summary of [lightest-ostis-pancake](https://github.com/semantic-pie
 Clone repository:
 
 ```sh
-git clone https://github.com/semantic-pie/lightest-ostis-pancake
+git clone https://github.com/ostis-apps/ostis-music
 ```
 
 To install the necessary components (sc-web, sc-machine, music.ostis.kb), run the following command:
